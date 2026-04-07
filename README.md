@@ -102,14 +102,14 @@ Este projeto pode evoluir para modelos preditivos:
 
 Indicadores (KPIs):
 
-- 💰 Faturamento total
-- 🛒 Ticket médio
-- 👥 Total de clientes
-- 📦 Produtos vendidos
-- 📈 Vendas por hora
-- 💳 Distribuição por forma de pagamento
-- 💸 Taxas totais pagas
-- 📅 Comparação mensal
+- Faturamento total
+- Ticket médio
+- Total de clientes
+- Produtos vendidos
+- Vendas por hora
+- Distribuição por forma de pagamento
+- Taxas totais pagas
+- Comparação mensal
 
 ---
 
