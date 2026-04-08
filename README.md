@@ -62,6 +62,10 @@ Essa base permite análises de:
 
 ---
 
+**A base de dados de vendas de cartão logicamente só mostram vendas de Débito, Crédito, Voucher e Pix. A base de dados de vendas por horário mostra todas as vendas nas maquininhas e as vendas em dinheiro no período de 01/01/26 até 31/03/26**
+
+---
+
 ## Análises Realizadas
 
 ### Análise Exploratória (EDA)
