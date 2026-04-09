@@ -1,6 +1,6 @@
 # Análise de Vendas – Mercado do Ponto
 
-[![Dashboard](imagens/dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZmNiMWQ5ZTctODkxNi00MzZjLTlkNDgtZmU5ODJiZTgxOWYyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+[![Dashboard](imagens/dashboard.PNG)](https://app.powerbi.com/view?r=eyJrIjoiZmNiMWQ5ZTctODkxNi00MzZjLTlkNDgtZmU5ODJiZTgxOWYyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 ## Descrição do Projeto
 Este projeto tem como objetivo analisar os dados de vendas de um mercado de bairro, utilizando informações transacionais e agregadas por horário. A análise busca identificar padrões de vendas, comportamento dos clientes e oportunidades de melhoria.
